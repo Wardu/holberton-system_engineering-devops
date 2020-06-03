@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -d /tmp/holberton/betty
+rm --one-file-system /tmp/holberton/betty
