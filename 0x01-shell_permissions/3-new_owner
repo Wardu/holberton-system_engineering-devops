@@ -1,2 +1,2 @@
 #!/bin/bash
-usermod betty julien
+usermod -l  betty julien
