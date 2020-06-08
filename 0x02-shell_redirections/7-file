@@ -1,5 +1,2 @@
 #/bin/bash
-cat > "\*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)" << "END"
-Holberton School
-END
-
+echo Holberton > '\*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)'
