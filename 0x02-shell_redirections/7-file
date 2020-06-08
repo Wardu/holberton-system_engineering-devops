@@ -1,4 +1,4 @@
 #!/bin/bash
-cat <<EOF >"\*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)"
+cat >"\*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)" <<- "EOF"
 Holberton School
 EOF
